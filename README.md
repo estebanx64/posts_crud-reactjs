@@ -11,4 +11,4 @@ clone repository, install dependencies and run development server
 > npm start
 ```
 
-Open web browser and navigate at http://localhost:8080
+Open web browser and navigate at http://localhost:3000
